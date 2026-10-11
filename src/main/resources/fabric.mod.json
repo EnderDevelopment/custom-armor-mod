@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "customarmormod",
+  "version": "1.0.0",
+  "name": "Custom Armor Mod",
+  "description": "A Minecraft mod for custom armor sets and stats command",
+  "authors": ["franssonmelvin095"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.franssonmelvin095.customarmormod.CustomArmorMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.21.4",
+    "java": ">=17"
+  }
+}

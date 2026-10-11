@@ -1,0 +1,7 @@
+{
+  "item.customarmormod.custom_helmet": "Custom Helmet",
+  "item.customarmormod.custom_chestplate": "Custom Chestplate",
+  "item.customarmormod.custom_leggings": "Custom Leggings",
+  "item.customarmormod.custom_boots": "Custom Boots",
+  "command.customarmormod.stats": "Shows player statistics"
+}
